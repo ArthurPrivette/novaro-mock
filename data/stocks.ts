@@ -28,5 +28,5 @@ export const stocks: Stock[] = [
     bio: 'Palantir develops big-data analytics software for enterprises and governments.',
     tags: ['Software', 'AI']
   },
-  // …add more mock stocks here
+  // …add more stocks here
 ];
